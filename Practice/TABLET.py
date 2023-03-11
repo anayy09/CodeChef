@@ -11,3 +11,4 @@ for test in range(int(input())):
         print("no tablet")
     else:
         print(max(l))
+  
