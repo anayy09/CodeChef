@@ -10,3 +10,4 @@ for test in range(int(input())):
         print('C')
     else:
         print("NOTA")
+        
